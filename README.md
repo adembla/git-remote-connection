@@ -1,4 +1,4 @@
 # git-remote-connection
 
-This project is created just for learning purpose.
+This project is created just for self learning.
 
